@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Service — Mente Millonaria</title>
+<style>
+  body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #333; }
+  h1 { color: #1a1a1a; border-bottom: 2px solid #ffd700; padding-bottom: 10px; }
+  h2 { color: #333; margin-top: 30px; }
+</style>
+</head>
+<body>
+<h1>Terms of Service</h1>
+<p><strong>Last updated:</strong> July 15, 2026</p>
+<h2>1. Acceptance of Terms</h2>
+<p>By accessing or using Mente Millonaria ("the App"), you agree to be bound by these Terms of Service.</p>
+<h2>2. Description of Service</h2>
+<p>Mente Millonaria provides financial education content and video sharing features through TikTok integration.</p>
+<h2>3. Use of TikTok Platform</h2>
+<p>This application uses the TikTok Content Posting API. By using this feature, you also agree to TikTok's Terms of Service.</p>
+<h2>4. User Responsibilities</h2>
+<p>Users must comply with all applicable laws and not publish content that violates third-party rights.</p>
+<h2>5. Disclaimer</h2>
+<p>Financial information is for educational purposes only. Consult a qualified advisor before investing.</p>
+<h2>6. Contact</h2>
+<p>Contact: Fernan31ramoss@gmail.com</p>
+</body>
+</html>
